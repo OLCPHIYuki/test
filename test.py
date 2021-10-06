@@ -7,3 +7,5 @@ print('test again')
 def print_hello():
     for i in range(10):
         print('hello')
+
+print('test')
