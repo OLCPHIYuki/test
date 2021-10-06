@@ -9,3 +9,5 @@ def print_hello():
         print('hello')
 
 print('test')
+
+print('这次的编辑者是我自己了吧')
